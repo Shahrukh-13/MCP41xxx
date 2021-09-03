@@ -6,9 +6,6 @@ int CS= 10;
 int value_i;
 String input = "";
 
-int i;
-char data;
-char res[100];
 
 void setup()
 {
